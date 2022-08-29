@@ -2,15 +2,22 @@
 #program is developed in HTML, CSS and Javascript...
 You can't enter Negative value. If You entering negative value, than alert() show you this message: "Please enter positive value".
 And when you click on submit Button directly (without entering the value),than alert() show you this message: "Please enter value".
+
+There are a 'Submit' and 'reset' button.
+Submit Button: It's used for submit your values.
+Reset Button: It's used for reset input value annd output.
+
 Example:
 1) If you enter: 2 (as input)
 It's display output as :  * 4
                           * 6
                           * 8
+                          
 2) If you enter: 3 (as input)
 It's display output as :  * 5
                           * 7
                           * 9
+                          
 3) If you enter: -5 (negative number as input)
 It's display output as :  Please enter Positive Number!
 
